@@ -1,3 +1,4 @@
-# 学习 React 全家桶核心原理
+# 学习 React 核心原理
 
-- react: https://pomb.us/build-your-own-react/
+- https://pomb.us/build-your-own-react/
+- https://react.iamkasong.com/
